@@ -1,0 +1,6 @@
+{
+  "name": "RootRange — Linux Terminal & 10-Tier Web CTF Lab",
+  "description": "Web上で動作するLinuxターミナル、10段階のWebセキュリティ攻略ターゲット、およびカスタム脆弱性サーバー作成ラボ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
